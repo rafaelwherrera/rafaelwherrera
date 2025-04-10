@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 Eu sou o Rafael Herrera, sou um desenvolvedor apaixonado por tecnologia!
+<br>
 Este é o espaço onde passo a maior parte do meu tempo, onde a imaginação e a criatividade se tornam código.
 
 <br>
