@@ -6,15 +6,6 @@ Este é o espaço onde passo a maior parte do meu tempo, onde a imaginação e a
 
 <br>
 
-## Conecte-se comigo:
-
-<p>
-<a href="https://www.instagram.com/rafaelwittee" target="_blank">
-<img align="left" alt="ícone do instagram uma câmera dentro de um quadrado" width="22px" src="https://camo.githubusercontent.com/cd6de81833b9d2f409fda7041274601ec15a3de2004ae99a4a8c021d552bc823/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<br>
-<br>
-
 <p align="left">
 <br>
 Linguagens e ferramentas:
