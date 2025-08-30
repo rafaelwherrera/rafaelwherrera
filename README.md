@@ -1,21 +1,33 @@
-## Hi there 👋
+# Olá, eu sou o Rafael Herrera 👋
 
-Eu sou o Rafael Herrera, sou um desenvolvedor apaixonado por tecnologia!
-<br>
-Este é o espaço onde passo a maior parte do meu tempo, onde a imaginação e a criatividade se tornam código.
+##  Sobre mim
+Desenvolvedor **Full-Stack** focado em React, Node.js e aplicações escaláveis.
 
-<br>
+- 🛠 Atualmente desenvolvendo **BarberPlus**, uma plataforma completa de gestão de barbearias.
+- 🌱 Aprendendo continuamente **Next.js** e boas práticas em Backend.
+- 🤝 Aberto a colaborações e oportunidades freelance.
+- ⚡ Moto: "Código limpo, design elegante, entrega rápida"
 
-<p align="left">
-<br>
-Linguagens e ferramentas:
-<br><br>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-</p>
-<br><br>
+##  Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript)
+![React](https://img.shields.io/badge/-React-blue?logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?logo=Nextdotjs)
+![Node.js](https://img.shields.io/badge/-Node.js-green?logo=nodedotjs)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-blue?logo=tailwindcss)
 
-[![Rafael Herrera stats](https://github-readme-stats.vercel.app/api?username=rafaelwherrera)](https://github.com/anuraghazra/github-readme-stats)
+##  Meus principais projetos
+- **BarberPlus** — Gestão completa para barbearias com agendamento e pagamentos via Stripe.
+- **Cartomancia App** — Plataforma de agendamentos com pagamento recorrente.
+- **PetCare** — Site responsivo de serviços veterinários.
 
-<br><br>
+(sketch projetcs links com descrição e tecnologias)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelwherrera)](https://github.com/anuraghazra/github-readme-stats)
+##  Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelwherrera&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelwherrera&layout=compact&theme=dark)
+
+##  Vamos nos conectar
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/rafael-wittee-herrera)
+[![Website](https://img.shields.io/badge/-Portfolio-lightgrey)](https://www.rafaelherrera.com.br)
